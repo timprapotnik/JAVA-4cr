@@ -1,4 +1,4 @@
-package adx.audioxd.test1;
+package adx.audioxd.ura1;
 
 public class Main {
     public static void main(String... args) {
