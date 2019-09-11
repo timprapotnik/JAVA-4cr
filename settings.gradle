@@ -1,3 +1,4 @@
 rootProject.name = 'test1'
 include 'ura1'
+include 'ura2'
 
