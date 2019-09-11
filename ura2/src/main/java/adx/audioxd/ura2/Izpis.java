@@ -1,14 +1,6 @@
 package adx.audioxd.ura2;
 
 public class Izpis {
-    public static void main(String... args) {
-
-    }
-
-    // ---------------------- //
-    //   CLASS
-    // ---------------------- //
-
     private String tekst;
 
     public Izpis(String tekst) {
