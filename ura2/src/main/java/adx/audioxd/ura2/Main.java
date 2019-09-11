@@ -12,5 +12,9 @@ public class Main {
 
         iz.print();
         iz2.print();
+
+
+        iz2.prilepi(" - Ekstra");
+        iz2.print();
     }
 }

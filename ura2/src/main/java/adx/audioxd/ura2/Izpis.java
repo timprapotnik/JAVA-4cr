@@ -10,4 +10,8 @@ public class Izpis {
     public void print() {
         System.out.println(this.tekst);
     }
+
+    public void prilepi(String ekstra) {
+        this.tekst += ekstra;
+    }
 }
