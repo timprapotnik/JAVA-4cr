@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String... args) {
-        System.out.print("Vnesi 5 števil: ");
+        System.out.println("Vnesi 5 števil: ");
 
         Scanner input = new Scanner(System.in);
         int single = 0, multi = 0;
