@@ -12,8 +12,7 @@ public class Main {
             int n = input.nextInt();
             if (n < 10 && n > -10) {
                 single++;
-            }
-            if (n < 100 && n > -100) {
+            } else if (n < 100 && n > -100) {
                 duble++;
             } else {
                 multi++;
