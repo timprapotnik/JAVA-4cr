@@ -11,7 +11,7 @@ Naloge:
     program mora imeti poseben razred izpis tekstov na ekran
 
 
-http://upn1.sckr.si/
+http://upn1.sckr.si/****
 Naloge, ki jih resuješ shraniš na USB ključ, na katerem boš imel tudi razvojno okolje Eclipse. To boš potreboval pri sprotnem preverjanju znanja.
 
 ad. D1 Dnesi 5 stevil in izpiši koliko je enomestnih in koliko je večmestnih!
@@ -23,3 +23,8 @@ ad. D2 Podobno kot zgoraj.
 2. Koliko klicavcev metod je znotraj metode main v programu D1?
 3. Opiši kako se razlikujeta spremenljivki v programu D1?
 4. Ali je možno rešiti nalogo ad D1 ne ne da bi napisali poseben razred?
+
+
+
+
+2. Napiši program, ki prepozna li je število liho ali sodo

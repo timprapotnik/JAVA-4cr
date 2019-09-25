@@ -10,6 +10,9 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         int number = input.nextInt();
+
+        System.out.println("Število je" + (number%2== 0 ? "Sodo": "Loho"));
+
         int decimals = 1;
         while((number = number/10) != 0) {
             decimals ++;
